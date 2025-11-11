@@ -1,6 +1,7 @@
 # Hola, soy Jefferson Condiza 👋
 
-[cite_start]Desarrollador de Software con un enfoque principal en el **Backend**, apasionado por construir **soluciones escalables, eficientes y seguras**[cite: 10, 12]. Mi meta es aplicar el conocimiento en arquitecturas de alto rendimiento y contribuir al éxito de equipos innovadores.
+Desarrollador de Software con un enfoque principal en el **Backend**, apasionado por construir **soluciones escalables, eficientes y seguras**.  
+Mi meta es aplicar el conocimiento en arquitecturas de alto rendimiento y contribuir al éxito de equipos innovadores.
 
 ---
 
@@ -8,24 +9,24 @@
 
 Mi experiencia se centra en la modularidad y el rendimiento del lado del servidor. Me destaco por mi habilidad para:
 
-* [cite_start]Diseñar e implementar **APIs REST** robustas[cite: 11].
-* [cite_start]Desarrollar servicios modulares y escalables utilizando **NestJS** y **TypeScript**[cite: 11].
-* [cite_start]Configurar y gestionar el despliegue de aplicaciones en contenedores con **Docker** y **Kubernetes** (DevOps)[cite: 22].
-* [cite_start]Integrar bases de datos **SQL** y **NoSQL** para la gestión eficiente de datos[cite: 11, 23].
+* Diseñar e implementar **APIs REST** robustas.  
+* Desarrollar servicios modulares y escalables utilizando **NestJS** y **TypeScript**.  
+* Configurar y gestionar el despliegue de aplicaciones en contenedores con **Docker** y **Kubernetes** (DevOps).  
+* Integrar bases de datos **SQL** y **NoSQL** para la gestión eficiente de datos.  
 
-[cite_start]Me motiva el **aprendizaje constante** y demuestro **proactividad** y **pensamiento estratégico** en la resolución de problemas técnicos complejos[cite: 12, 35, 37, 39].
+Me motiva el **aprendizaje constante** y demuestro **proactividad** y **pensamiento estratégico** en la resolución de problemas técnicos complejos.
 
 ---
 
 ### 🛠️ Tecnologías que Manejo
 
-| Categoría | Tecnologías Clave (CV) |
+| Categoría | Tecnologías Clave |
 | :--- | :--- |
-| **Lenguajes** | [cite_start]JavaScript, TypeScript, Python, Java [cite: 26] |
-| **Backend** | [cite_start]**NestJS**, Node.js, Express [cite: 28] |
-| **Bases de Datos** | [cite_start]SQL, MySQL, MongoDB [cite: 32] |
-| **DevOps** | [cite_start]Docker, Kubernetes (usados en Microservicios) [cite: 22] |
-| **Frontend** | [cite_start]Angular, React, HTML/CSS [cite: 30] |
+| **Lenguajes** | JavaScript, TypeScript, Python, Java |
+| **Backend** | **NestJS**, Node.js, Express |
+| **Bases de Datos** | SQL, MySQL, MongoDB |
+| **DevOps** | Docker, Kubernetes (usados en Microservicios) |
+| **Frontend** | Angular, React, HTML/CSS |
 
 ---
 
@@ -34,13 +35,13 @@ Mi experiencia se centra en la modularidad y el rendimiento del lado del servido
 Estos proyectos demuestran mi capacidad para construir soluciones completas, desde la arquitectura hasta el despliegue:
 
 * **Microservicios con NestJS - Desarrollador Backend:**
-    * [cite_start]Implementación de arquitectura de **microservicios** con comunicación **TCP y NATS**[cite: 22].
-    * [cite_start]Configuración de autenticación y despliegue del sistema usando **Docker/Kubernetes**[cite: 22].
-    * [cite_start]Desarrollo de servicios escalables con integración de bases de datos **SQL y NoSQL**[cite: 23].
+    * Implementación de arquitectura de **microservicios** con comunicación **TCP y NATS**.  
+    * Configuración de autenticación y despliegue del sistema usando **Docker/Kubernetes**.  
+    * Desarrollo de servicios escalables con integración de bases de datos **SQL y NoSQL**.
 
 * **Agencia de Viajes (SENA) - Desarrollador Frontend:**
-    * [cite_start]Diseño y desarrollo de la interfaz con enfoque **Atomic Design**[cite: 20].
-    * [cite_start]Implementación de **formularios reactivos** y uso del patrón **Observer** para sincronización dinámica de datos[cite: 21].
+    * Diseño y desarrollo de la interfaz con enfoque **Atomic Design**.  
+    * Implementación de **formularios reactivos** y uso del patrón **Observer** para sincronización dinámica de datos.
 
 ---
 
@@ -64,8 +65,8 @@ Estos proyectos demuestran mi capacidad para construir soluciones completas, des
 
 Siempre estoy abierto a nuevos retos y oportunidades en el área de desarrollo Backend.
 
-* [cite_start]**LinkedIn:** [https://www.linkedin.com/in/jefferson-david-condiza-quintero-89bb3436a/](https://www.linkedin.com/in/jefferson-david-condiza-quintero-89bb3436a/) [cite: 17]
-* [cite_start]**Correo Electrónico:** jefferdcondiza@gmail.com [cite: 15]
+* **LinkedIn:** [https://www.linkedin.com/in/jefferson-david-condiza-quintero-89bb3436a/](https://www.linkedin.com/in/jefferson-david-condiza-quintero-89bb3436a/)  
+* **Correo Electrónico:** jefferdcondiza@gmail.com  
 
 <br>
 
